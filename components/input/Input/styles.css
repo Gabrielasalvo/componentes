@@ -1,0 +1,29 @@
+
+
+.input-form {
+  align-items: center;
+  display: flex;
+  border:1px solid var(--color-border);
+  outline: hidden;
+  border-radius: 4px;
+  width: 30rem;
+}
+label {
+  color:var(--color-background-disabled);
+}
+
+.menu-flags {
+  border: 1px solid black;
+  display: block;
+  position: absolute;
+  bottom: 3.4rem;
+}
+
+.input-name {
+  border:1px solid black;
+}
+
+.description {
+  color:var(--color-background-disabled)
+}
+

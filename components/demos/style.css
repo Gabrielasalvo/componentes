@@ -1,0 +1,13 @@
+.input-name {
+  border-radius: 0.4rem;
+  width: 15rem;
+  height: 3rem;
+  display: flex;
+  align-items: center;
+  align-items: center;
+  display: flex;
+  border:1px solid var(--color-border);
+  outline: hidden;
+  border-radius: 4px;
+  width: 30rem;
+}
